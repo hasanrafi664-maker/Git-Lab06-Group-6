@@ -1,0 +1,8 @@
+1. git init - Initializes a new local Git repository.
+2. git status - Displays the current repository status.
+3. git add - Adds modified files to the staging area.
+4. git diff - Shows differences between working directory and staging area.
+5. git commit - Saves staged changes to the local repository.
+6. git log --oneline - Displays commit history in a short format.
+7. git branch - Displays the available local branches.
+8. git branch -M main - Renames the current branch to main.
