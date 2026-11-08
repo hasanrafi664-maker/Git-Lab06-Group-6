@@ -1,0 +1,8 @@
+Group Number: 6
+Member 1: Ahsan Habib - 2022-1-60-064
+Member 2: Md Sirajul Islam Sagor - 2023-1-60-143
+Member 3: Shishir Sarkar  - 2023-1-60-234
+Member 4: Shahriar Rahman - 2022-3-60-036
+Course Code: CSE412
+Lab Work: 06
+Topic: Git Repository
